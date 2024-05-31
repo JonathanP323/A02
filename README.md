@@ -1,5 +1,4 @@
-# A02
-Introduction to Git, Github, and Webstorm 
+# Introduction to Git, Github, and Webstorm 
 _________________________________________
 # What is GitHub?
 An open-source version control system
