@@ -94,6 +94,16 @@ This example is for my GitHub Account.
 Choose master branch.
 Leave the custom domain blank for your project. 
 __________________________________________________
+## Check your GitHub Pages
+Copy the Github.io URL into a browser. 
+Post the URL into Moodle with your GitHub account URL. 
+Test your file in a browser by copying and pasting the GitHub.io URL. 
+_______________________________________________________________________
+## References 
+- Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press.
+- Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
+- GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/
+
 
 
 
