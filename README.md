@@ -105,18 +105,7 @@ _______________________________________________________________________
 - GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/
 _______________________________________________________________________________________________________________________________
 ## Glossary 
-1. Branch: allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. 
-2. Clone: when cloning a repository, you copy the repository from GitHub.com to your local machine.
-3. Commit: records changes to one or more files in your branch.
-4. Fetch: retrieves new work done by other people.
-5. GIT: is an Open Source distributed version control system
-6. Github: a cloud-based platform that helps software developers collaborate on and manage code.
-7. Merge: Git's way of putting a forked history back together again.
-8. Merge Conflict: occurs when two branches are merged that have conflicting commits.
-9. Push: allows you to transfer commits from your local repository to a remote repo.
-10. Pull: used to fetch and download content from a remote repository and immediately update the local repository to match that content.
-11. Remote: is a pointer to another copy of your repository that is typically hosted on a server somewhere. 
-12. Repository: a place where you can store your code, your files, and each file's revision history.
+
 
 
 
