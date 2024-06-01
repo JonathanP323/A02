@@ -32,6 +32,77 @@ In Webstorm press (Ctrl+Alt+S) for system preferences.
 Select Version Control Git. Enter the path to the git.exe
 Enter the path to your Git.exe file. 
 ___________________________________________________________
+## Add Github Password to Webstorm
+In Webstorm press (Ctrl+Alt+S) for system preferences. 
+Select Appearance and Behavior | System Settings | Passwords
+Add a location a for the password file then click "ok".
+______________________________________________________________
+## Create a Repository
+Click the + sign in the upper right corner. 
+Choose “Create New repository”.
+Click new repository.
+_____________________________________________
+## The Repository is Set-up
+Make the repository public and add the readme file. 
+Then click Create.
+____________________________________________________
+## Create a Repository from Webstorm
+Select VCS and Import into Version Control
+Create Git repository.
+Give it a name and press ok. 
+____________________________________________
+## Import a Repository from GitHub
+From the Main page Select Checkout from version control Git OR -->
+From within Webstorm Select VCS --> Checkout from version control --> Git
+Enter the Github repository name. 
+Enter the local path name. 
+__________________________________________________________________________
+## Creating a Webstorm File
+Choose File --> HTML --> HTML 5 or File --> Stylesheet
+Choose an HTML file to create an HTML file.
+Choose Stylesheet to create your CSS file. 
+_______________________________________________________
+## Add file to Git 
+The Add to Git dialog opens.
+Click Add. This adds to local file system. 
+Add the files to Git.
+Click add. 
+____________________________________________
+## Commit Your Changes
+Choose your file.
+Add a message. 
+Click Commit. 
+________________________
+## Push Change to Remote Repository
+Click “Ctrl --> Shift --> K”
+Or “VCS --> Git --> Push”
+Select committed file. 
+Click push.
+The file is now on GitHub. 
+_____________________________________
+## Set up GitHub Pages
+Click Settings. 
+Check the repository name.
+Double-check the Repository name. 
+Click settings.
+____________________________________
+## Choose GitHub Page Location
+Select “Master branch”
+Note the published URL 
+Submit your URL into Moodle. 
+This example is for my GitHub Account. 
+Choose master branch.
+Leave the custom domain blank for your project. 
+__________________________________________________
+
+
+
+
+
+
+
+
+
 
 
 
